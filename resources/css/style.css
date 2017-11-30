@@ -14,7 +14,7 @@ p a{
 }
 
 #header{
-  background-image: url("/Users/jessebescoby/Documents/html_css/gitstuff/broadway/resources/images/the-flatiron-building.png")
+  background-image: url("/Users/jessebescoby/Documents/html_css/gitstuff/broadway/resources/images/the-flatiron-building.png");
 }
 
 h2{
@@ -27,4 +27,13 @@ h3{
 
 p{
   font-size: 14px;
+}
+
+h4{
+  color: white;
+  font-size: 23px;
+  background-image: url("/Users/jessebescoby/Documents/html_css/gitstuff/broadway/resources/images/the-flatiron-building.png");
+}
+
+#backgroundbanner{
 }
