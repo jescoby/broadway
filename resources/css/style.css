@@ -1,0 +1,19 @@
+html{
+  font-family: Helvetica;
+  text-align: center;
+}
+
+h1{
+  color: white;
+  font-size: 70px;
+  }
+
+ul li{
+  color: white;
+  font-size: 18px;
+  list-style-type: none;
+}
+
+#header{
+  background-image: url("/Users/jessebescoby/Documents/html_css/gitstuff/broadway/resources/images/the-flatiron-building.png")
+}
