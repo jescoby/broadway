@@ -8,12 +8,23 @@ h1{
   font-size: 70px;
   }
 
-ul li{
+p a{
   color: white;
   font-size: 18px;
-  list-style-type: none;
 }
 
 #header{
   background-image: url("/Users/jessebescoby/Documents/html_css/gitstuff/broadway/resources/images/the-flatiron-building.png")
+}
+
+h2{
+  font-size: 32px;
+}
+
+h3{
+  font-size: 23px;
+}
+
+p{
+  font-size: 14px;
 }
