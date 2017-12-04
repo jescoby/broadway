@@ -34,3 +34,12 @@ h4{
   font-size: 23px;
   background-image: url("/Users/jessebescoby/Documents/html_css/gitstuff/broadway/resources/images/the-flatiron-building.png");
 }
+
+#footer {
+  background-color: dimgray;
+}
+
+#footer p{
+  font-size: 11px;
+  color: white;
+}
